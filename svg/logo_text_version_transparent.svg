@@ -13,10 +13,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="logo_text_transparent.svg"
-   inkscape:export-filename="/home/sigrid/Pictures/Design/Kalmar/logo_16x16.png"
-   inkscape:export-xdpi="1.3546667"
-   inkscape:export-ydpi="1.3546667">
+   sodipodi:docname="logo_text_version_transparent.svg"
+   inkscape:export-filename="/home/sigrid/Pictures/Design/Kalmar/kalmarunionen-artwork/png/logo_text_transparent_640x640.png"
+   inkscape:export-xdpi="54.186665"
+   inkscape:export-ydpi="54.186665">
   <defs
      id="defs2">
     <rect
@@ -237,10 +237,10 @@
      inkscape:bbox-paths="false"
      inkscape:snap-nodes="false"
      inkscape:snap-others="true"
-     inkscape:window-width="1424"
-     inkscape:window-height="823"
-     inkscape:window-x="1928"
-     inkscape:window-y="32"
+     inkscape:window-width="1904"
+     inkscape:window-height="1000"
+     inkscape:window-x="8"
+     inkscape:window-y="35"
      inkscape:window-maximized="0"
      inkscape:snap-global="false"
      showguides="false" />
@@ -252,7 +252,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
